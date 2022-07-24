@@ -2,5 +2,6 @@
 reloading page count using redis
 
 
-https://user-images.githubusercontent.com/67652868/180644320-ef69bd24-341e-4da2-8503-5daebd8e115c.mp4
 
+
+![redis-gif](https://user-images.githubusercontent.com/67652868/180644675-81d744be-3d9d-458f-a49f-07197b6b9de2.gif)
